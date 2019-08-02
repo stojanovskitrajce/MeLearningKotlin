@@ -1,4 +1,5 @@
 fun main (args:Array<String>){
-    print("hello world")
-    println("Deka ti e kotleto bre")
+   var a:Int = 20
+    var car = "Burago"
+    print (car + " " + a + "$")
 }
